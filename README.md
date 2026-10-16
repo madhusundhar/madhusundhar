@@ -94,7 +94,7 @@ An Internet of Things project focused on smart home automation and connected-dev
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?madhusundhar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=madhusundhar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhusundhar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
